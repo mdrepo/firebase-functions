@@ -31,6 +31,8 @@ i  Skipping write of functions/index.js
 `firebase functions:config:set api.key=API_KEY api.id=SERVICE_NAME`
 5. If you are going test locally, set up runtime environemnts
 `firebase functions:config:get > .runtimeconfig.json`
+6. `cd functions/` 
+7. `npm install`
 
 
 ## Running locally
