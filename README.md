@@ -42,3 +42,4 @@ i  Skipping write of functions/index.js
 ## Deployment
 
 `firebase deploy --only functions`
+The link to access the https function would be somewhat like https://us-central1-mobile-team-1201f.<your_project_name>.net/<function_name>
