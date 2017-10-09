@@ -18,11 +18,11 @@ Install firebase on your machine. Refer [Firebase functions - get started](https
 
 firebase will ask you to whether to overwrite package.json and index.js
 
-Select yes for package.json, NO for index.js
+Select NO for both the options
 
 ```
-? File functions/package.json already exists. Overwrite? Yes
-✔  Wrote functions/package.json
+? File functions/package.json already exists. Overwrite? No
+i  Skipping write of functions/package.json
 ? File functions/index.js already exists. Overwrite? No
 i  Skipping write of functions/index.js
 ? Do you want to install dependencies with npm now? Yes
