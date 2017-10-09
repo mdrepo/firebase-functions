@@ -1,0 +1,6 @@
+.idea
+**/node_modules/*
+**/.firebaserc
+*DS_Store
+*/npm-debug.log
+*~
